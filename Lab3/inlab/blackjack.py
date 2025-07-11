@@ -1,7 +1,6 @@
 from cards import Deck
 class Player(object):
-
-
+    
     def __init__(self, cards):
         self.cards = cards
 
