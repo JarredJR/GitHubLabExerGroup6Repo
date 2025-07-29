@@ -1,0 +1,6 @@
+[
+  { "AlbumId": 1, "Title": "For Those About To Rock We Salute You", "ArtistId": 1 },
+  { "AlbumId": 2, "Title": "Balls to the Wall", "ArtistId": 2 },
+  { "AlbumId": 3, "Title": "Big Ones", "ArtistId": 3 },
+  { "AlbumId": 4, "Title": "Jagged Little Pill", "ArtistId": 4 }
+]
